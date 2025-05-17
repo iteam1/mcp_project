@@ -75,6 +75,17 @@ mcp-project/
 └── README.md          # Project documentation
 ```
 
+## MCP vs Traditional API
+
+| Feature            | MCP                      | Traditional APIs   |
+| ------------------ | ------------------------ | ------------------ |
+| Tool Discovery     | Dynamic, AI-adaptive     | Predefined, static |
+| Communication      | Bidirectional, real-time | Request-response   |
+| Context Management | Advanced, AI-driven      | Limited            |
+| Interoperability   | Works across LLMs        | Vendor-specific    |
+| Security           | Built-in access control  | API key management |
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
@@ -84,6 +95,11 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
-
+- [MCP Documentation](https://www.claudemcp.com/docs/introduction)
+- [Claude's MCP documentation](https://docs.anthropic.com/en/docs/claude-code/overview)
+- [MCP Servers](https://mcp.so/)
+- [Claude Code MCP](https://glama.ai/mcp/servers/@auchenberg/claude-code-mcp)
+- [Glama](https://glama.ai/mcp)
 - [Render](https://render.com/) for hosting
-- All contributors who have helped improve this project
+- [MCP is All You Need](https://huggingface.co/blog/LLMhacker/mcp-is-all-you-need)
+- [What Is MCP](https://huggingface.co/blog/Kseniase/mcp)
