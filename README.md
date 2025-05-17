@@ -101,5 +101,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Claude Code MCP](https://glama.ai/mcp/servers/@auchenberg/claude-code-mcp)
 - [Glama](https://glama.ai/mcp)
 - [Render](https://render.com/) for hosting
+- [Model Context Protocol](https://modelcontextprotocol.io/introduction)
 - [MCP is All You Need](https://huggingface.co/blog/LLMhacker/mcp-is-all-you-need)
+- [Tiny Agents: an MCP-powered agent in 50 lines of code ](https://huggingface.co/blog/tiny-agents)
 - [What Is MCP](https://huggingface.co/blog/Kseniase/mcp)
